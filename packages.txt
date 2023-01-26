@@ -1,1 +1,1 @@
-yfinance-dev
+yfinance
